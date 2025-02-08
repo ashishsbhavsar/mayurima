@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  body {
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    background-image: url(img/ring1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+ 
+  .head {
+    color: #ffff;
+  margin-top: 80px;
+  }
+  .hdiv{
+    text-align: center;
+    align-items: center;
+  }
+
+  .hdiv h1{
+    color: #ffff;
+    font-weight: bold;
+    font-family: Sacramento;
+    font-size: 60px;
+  }
+
+  .hdiv h2{
+    color: #ffff;
+    font-size: 20px;
+  }
+
+  .block {
+    text-align: center;
+    vertical-align: middle;
+}
+.circle {
+    background: #C6447E;
+    opacity: .8;
+    border-radius: 200px;
+    color: white;
+    height: 100px;
+    width: 100px;
+    display: table;
+    margin: 20px auto;
+}
+.circle p {
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    vertical-align: middle;
+    display: table-cell;
+}
+.circle p span{
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  vertical-align: middle;
+}
+
+.info{
+  color: #ffff;
+}
+
+.info h1{
+  font-family: Sacramento;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.info h2{
+  font-size: 20px;
+}
+.info h3{
+  font-size: 20px;
+}
+
+.profile{
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+.map{
+  margin: 60px;
+}
+
+.but{
+  align-items: center;
+  justify-content: center;
+}
+
+.but{
+  margin-top: 40px;
+}
+
+.but a{
+  color: #ffff;
+  background-color: #C6447E;
+}
+
+footer{
+color: #ffff;
+margin-bottom: 40px;
+}
+ footer p a{
+  font-weight: bold;
+ color: #ffff;
+ text-decoration: none;
+}
+
